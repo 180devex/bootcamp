@@ -1,0 +1,19 @@
+
+
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    }
+  
+p.thick {
+    font-weight: bolder;
+  }
+  
+p.big {
+    font-size: 40px;
+    font-family: 'Felipa', cursive;
+}
+s 
+p.height {
+    line-height: 50px;
+}

@@ -1,0 +1,20 @@
+.box-fixed{
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: #8c8f8d;
+}
+
+.box-relative{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background: #8c8f8d;
+}
+
+.box-absolute{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: #8c8f8d;
+}
